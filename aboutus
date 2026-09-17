@@ -1,5 +1,18 @@
+<!DOCTYPE html>
 
-  <div id="about">
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+
+    <title>Shiv Shakti Shop</title>
+</head>
+
+<body>
+
+ <!-- About -->
+
+    <div id="about">
   <span class="out"><h2>About</h2></span>
  <span class="ab"><h4>Welcome to Shiv Shakti Sweets Shop 🍬 <br><br>
 
@@ -15,3 +28,8 @@ At Shiv Shakti Sweets Shop, our goal is simple — to give every customer a deli
 
 Come and taste the sweetness of happiness at Shiv Shakti Sweets Shop!</h4></span> 
     </div>
+
+
+   
+</body>
+</html>
